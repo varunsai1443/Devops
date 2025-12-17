@@ -10,6 +10,7 @@ public class Student {
 		System.out.println("============================");
 		System.out.println("WELCOME TO JENKINS");
 		System.out.println("GOOD EVENING");
+		System.out.println("GOOD ALL");
 		
 		}
 	}
